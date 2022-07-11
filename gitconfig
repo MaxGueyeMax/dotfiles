@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = gueye.maxime1994@gmail.com
+	name = Maxime Gueye
